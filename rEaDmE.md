@@ -8,4 +8,5 @@ I put here.
 | List |
 |--|
 | [Getting Start with OCaml](getting-started-with-ocaml.md) |
+| [Variable and Value in OCaml](variable-and-value-in-ocaml.md) |
 
