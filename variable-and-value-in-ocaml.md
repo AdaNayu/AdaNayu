@@ -20,7 +20,7 @@ In depth view, variable is abstracting how to store and load data from memory wi
 ```ocaml
 let me = "Adashino" ^ "Nayuta" ;;
 
-print_endline name;;
+print_endline me;;
 ```
 Look at code above. The code is explain about declaring variable (using `let`) with name `me` and storing value from concating string (`"Adashino" ^ "Nayuta"`). The value will accessible as we type the name (`me`) into operation. 
 
